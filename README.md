@@ -1,9 +1,9 @@
-# FormatiDiRappresentazione
+# Formati di rappresentazione
 
 Esercizio sulla rappresentazione dei dati utilizzando diversi "tipi".
 
 - signed byte, tipo: "sbyte"
-- long con literal (uso di _ come separatore delle migliaia)
+- long con literal (uso di _ come separatore delle migliaia in c# 7)
 - literal in formato binario
 - literal in formato esadecimale, tipo: unsigned-short "ushort"
 - stringa di formato, es: Console.WriteLine("a={0}", a);
